@@ -16,4 +16,6 @@ Subindo projetos:
 	git commit -m "arquivos"
 	git remote add origin <link clone>
 	git push origin master
-		
+
+Se der um erro de origem com a mensagem "is this a git repository?":
+	https://stackoverflow.com/questions/43049278/fatal-git-info-refs-not-valid-is-this-a-git-repository
